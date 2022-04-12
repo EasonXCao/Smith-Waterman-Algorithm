@@ -4,11 +4,11 @@ This algorithm aims at implementing Smith-Waterman algorithm in python.
 \
 \
 The HW1_SW_Algorithm folder contains:
-* hw1.py: the main code file;
-* blosum62.txt: the substitution matrix file for protein alignment;
-* sample-input1.txt, sample-input2.txt: input files with two given sequences in each file;
-* sample-output1.txt, sample-output2.txt: output files with score matrix and alignment result;
-* input.txt: input file for testing.
+* **hw1.py**: the main code file;
+* **blosum62.txt**: the substitution matrix file for protein alignment;
+* **sample-input1.txt, sample-input2.txt**: input files with two given sequences in each file;
+* **sample-output1.txt, sample-output2.txt**: output files with score matrix and alignment result;
+* **input.txt**: input file for testing.
 \
 \
 To run the algorithm, type the following command:
